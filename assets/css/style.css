@@ -391,6 +391,10 @@ button:hover {
 article {
     font-style: italic;
 }
+footer {
+    font-weight: lighter;
+    text-align: center;
+}
 
 /* Tamanho de tela média, como tablets (768px a 1024px) */
 @media (max-width: 1024px) {
