@@ -12,7 +12,7 @@ let maintenanceStatus = "OK";
 let loadBalance = 100;
 let voltageInput = 220;
 
-// Initialize Plotly graph
+// Initialize Plotly graph!!
 const speedGraphDiv = document.getElementById('speedGraph');
 Plotly.newPlot(speedGraphDiv, [{
     y: speedHistory,
